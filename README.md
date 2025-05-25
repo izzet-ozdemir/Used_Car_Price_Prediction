@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/izzet-ozdemir/Used_Car_Price_Prediction/edit/main/dataset-cover.jpg"></div>
+<div align="center"><img src="dataset-cover.jpg"></div>
 
 # 🚗 Used Car Price Prediction
 
